@@ -1,0 +1,15 @@
+.heading{
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body{
+background-size: cover;}
+
+canvas{
+    border-radius: 10px;
+    border: 5px solid seagreen;
+}
